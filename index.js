@@ -1,6 +1,6 @@
 const { Client, GatewayIntentBits } = require('discord.js');
 const axios = require('axios');
-
+　
 // あなたのBotのトークン
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
 
